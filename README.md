@@ -74,7 +74,7 @@ note : you can use pre trained model for these user can get model in two ways
 3.Visualize Output
 4. Stylize Image
 
-## visuali iamge##
+## visual image##
 
 ![Image](https://github.com/user-attachments/assets/782831eb-c71b-4759-8346-1e283664e3f9)
 
