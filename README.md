@@ -67,6 +67,8 @@ note : you can use pre trained model for these user can get model in two ways
    
   model = hub.load('https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2')
 
+you can upload your local images by going through these steps click on file then content then click on upload images from local devices.once it done it shows files in content area then copy the file path , the path will used in code section just simple paste the path copied earlier.
+
 ## steps in execution##
 
 1. Import Dependencies and Pretrained Model
