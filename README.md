@@ -64,6 +64,7 @@ first go to google colab and sign in with registered mail .if user no account ju
 note : you can use pre trained model for these user can get model in two ways
 1. visiting the model hub and select model copy url and paste it code.
 2.  if it is not work use the given model
+   
   model = hub.load('https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2')
 
 ## steps in execution##
@@ -78,4 +79,5 @@ note : you can use pre trained model for these user can get model in two ways
 ![Image](https://github.com/user-attachments/assets/782831eb-c71b-4759-8346-1e283664e3f9)
 
 ## output image##
+![Image](https://github.com/user-attachments/assets/f12d704c-f2e9-4430-91ea-a00275f9a7c6)
 
