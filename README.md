@@ -72,8 +72,11 @@ you can upload your local images by going through these steps click on file then
 ## steps in execution##
 
 1. Import Dependencies and Pretrained Model
+   
 2.Preprocess Image and Load
+
 3.Visualize Output
+
 4. Stylize Image
 
 ## visual image##
