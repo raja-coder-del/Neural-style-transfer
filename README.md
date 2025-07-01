@@ -86,3 +86,6 @@ you can upload your local images by going through these steps click on file then
 ## output image##
 ![Image](https://github.com/user-attachments/assets/f12d704c-f2e9-4430-91ea-a00275f9a7c6)
 
+                                                                                                       For any quries and issues contact me:
+                                                                                                       tekiraja143@gmail.com
+
